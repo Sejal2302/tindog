@@ -1,0 +1,126 @@
+#title{background-color:#ff4c68;}
+
+#h1{font-family: 'Fredoka One', cursive;
+    line-height:1.2;
+    font-size: 3.2rem;
+    margin-top:60px;
+    color: black;
+    margin-right: 180px;
+    margin-left:0px;}
+
+#container-fluid{padding:3% 15%;}
+
+#t1{font-family: ubuntu;
+    font-size: 3.9rem;
+    margin-top: 2rem;}
+
+#b1{margin-top:50px;
+    margin-bottom: 1.7rem;}
+
+#b2{margin-top:50px;
+    margin-bottom: 1.7rem;
+    margin-left: 30px;
+    margin-right: 180px;}
+
+#s1{color: white;
+    padding-right: 1rem;
+    font-size: 1.35rem;
+    margin-bottom: 7px;
+    font-family: 'Exo 2', sans-serif;}
+
+#s2{color: white;
+   padding-right: 1rem;
+   font-size: 1.35rem;
+   font-family: 'Exo 2', sans-serif;}
+
+#s3{color: white;
+   font-size: 1.35rem;
+   margin-right:0px;
+   font-family: 'Exo 2', sans-serif;}
+
+.icon{color: #ef8172;
+      margin-bottom:20px;}
+
+.icon:hover{color:#ff4c68;}
+
+#features{padding:5% 15%;}
+
+#g1{text-align: center;
+    padding: 5%;
+    font-family: 'Balsamiq Sans', cursive;}
+
+#g2{text-align: center;
+    padding: 5%;
+    font-family: 'Balsamiq Sans', cursive;}
+
+#g3{text-align: center;
+    padding: 5%;
+    font-family: 'Balsamiq Sans', cursive;}
+
+.te{color: gray;}
+
+#testimonials{padding: 7% 8% 2% 15%;
+              text-align: center;
+              background-color:#ef8172;
+              font-family: 'Josefin Sans', sans-serif;}
+
+#hero{margin-top: 3%;
+      border:3px solid;
+      border-radius: 100%;}
+
+.peb{font-size: 1.5rem;
+     padding-top:2%;}
+
+#fir{font-size: 2.5rem;}
+
+#press{padding: 0% 5% 4% 5%;
+       text-align: center;
+       background-color:#ef8172;
+       margin-bottom: 7%;}
+
+#p1{margin: 2%;}
+
+#p2{margin: 2%;}
+
+#p3{margin: 2%;}
+
+#p4{margin: 2%;}
+
+#pero{margin-top: 3%;
+      border:3px solid;
+      border-radius: 100%;}
+
+#kir{font-size: 2.5rem;}
+
+.row{text-align: center;}
+
+.be{padding: 3%;}
+
+#ter{text-align: center;
+    font-size: 2.8rem;}
+
+#yaar{text-align: center;
+      font-size: 1.5rem;}
+
+#pricing{margin-bottom: 30px;}
+
+#cta{background-color: #ff4c68;
+    text-align: center;
+    padding: 5% 15%;}
+
+#loe{font-family: 'Fredoka One', cursive;
+    font-size:2.8rem;}
+
+#k1{margin-top:2.6rem;
+    margin-bottom: 1.7rem;
+    margin-right: 30px;}
+    
+#k2{margin-top:2.6rem;
+    margin-bottom: 1.7rem;}
+
+#footer{text-align: center;
+        padding: 7% 15%;}
+
+.fit{margin:20px 15px;}
+
+.link{color: black;}
